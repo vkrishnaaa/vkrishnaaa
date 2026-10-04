@@ -62,7 +62,7 @@
 
 ### JavaScript
 
-`HTML` ━━━━━━━━━━━━━ `CSS` ━━━━━━━━━━━━━ `JavaScript` ━━━━━━━ `Frontend` ━━━━━ `Backend` ━━━ `Full Stack`
+`HTML`—————`CSS`—————`JavaScript`—————`Frontend`—————`Backend`—————`Full Stack`
 
 </div>
 
@@ -148,23 +148,6 @@ A themed webpage built around a café concept, with more focus on the overall vi
 
 ---
 
-<div align="center">
-
-## 📈 `CONTRIBUTION ACTIVITY`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vkrishnaaa&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=c084fc&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 `ACHIEVEMENTS`
-
-<img src="https://github-profile-trophy.vercel.app/?username=vkrishnaaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
 
 ---
 
@@ -225,9 +208,4 @@ A themed webpage built around a café concept, with more focus on the overall vi
 [![GitHub](https://img.shields.io/badge/GitHub-vkrishnaaa-161b22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vkrishnaaa)
 
 <br><br>
-
-### `BUILD • LEARN • BREAK • FIX • REPEAT`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=100&section=footer" />
-
 </div>
