@@ -1,139 +1,233 @@
-# Hey, I'm Vasudev Krishnaaa (V. Krishnaaa or VK) 👋
+<div align="center">
 
-🎓 **BTech CSE (AI/ML) Student** | 🌱 **Aspiring Full-Stack Developer** | 💻 **Frontend Learner**
+# 🦇 V. KRISHNAAA
 
-I'm a first-year **BTech CSE (AI/ML)** student at **GLA University**, currently exploring the world of web development and learning how to turn ideas into actual websites.
+### `B.Tech CSE (AI & ML)` • `1st Year` • `Aspiring Full Stack Developer`
 
-Right now, I'm mainly focused on strengthening my **HTML & CSS** skills by building projects from scratch, experimenting with different layouts and designs, and learning through hands-on practice.
+<img src="https://komarev.com/ghpvc/?username=vkrishnaaa&label=PROFILE+VIEWS&color=6f42c1&style=for-the-badge" />
 
-I believe the best way to learn development is to **build things, break things, fix them, and keep building.** 🚀
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vkrishnaaa)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/vkrishnaaa)
 
-## 🧑‍💻 About Me
-
-* 🎓 First-year **BTech CSE (AI/ML)** student
-* 🌱 Currently learning **HTML & CSS**
-* 💻 Interested in **Frontend & Full-Stack Development**
-* 🎨 Enjoy experimenting with website layouts and UI designs
-* 🚀 Building projects to improve my development skills
-* 📚 Currently working towards learning **JavaScript**
-* 🔮 Future goals: **JavaScript → React → Backend → Full Stack**
+</div>
 
 ---
 
-## 🛠️ Technologies I'm Learning
+<div align="center">
 
-### Frontend
+## 🕯️ `A LITTLE ABOUT ME`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+</div>
 
-### Currently Exploring
+```text
+🎓  B.Tech CSE (AI & ML) @ GLA University
+📍  1st Year
+💻  Aspiring Full Stack Developer
+🌱  Currently learning HTML, CSS & JavaScript
+🎨  Interested in Web Development & UI
+🛠️  Learning by building actual projects
+⚡  Currently somewhere between "learning" and "why isn't this working?"
+````
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-> More technologies coming as I continue learning 🚀
+> I started with HTML & CSS, started making small websites,
+> and somehow ended up enjoying the whole process of turning random
+> ideas into actual webpages.
+>
+> Still at the beginning. Still figuring things out.
+> But definitely building.
 
 ---
 
-## 🚀 My Projects
+<div align="center">
 
-I learn best by building, so I've been creating different projects while learning frontend development.
+## 🦇 `THE ARSENAL`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+
+<br><br>
+
+`HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `VS Code`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌑 `CURRENTLY LEARNING`
+
+<img src="https://skillicons.dev/icons?i=js&theme=dark" />
+
+### JavaScript
+
+`HTML` ━━━━━━━━━━━━━ `CSS` ━━━━━━━━━━━━━ `JavaScript` ━━━━━━━ `Frontend` ━━━━━ `Backend` ━━━ `Full Stack`
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔️ `PROJECTS`
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛒 VK Shopping Kart
 
-One of my early frontend projects — an e-commerce/shopping-inspired webpage built with HTML and CSS.
+A shopping-themed webpage built with **HTML & CSS**.
 
-This project helped me practice basic webpage structure, product layouts, navigation, buttons, spacing and CSS styling.
+Experimented with layouts, product sections, styling and building a complete webpage from scratch.
 
-🔗 [View Repository](https://github.com/vkrishnaaa/VK-Shopping-Kart)
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-161b22?style=for-the-badge\&logo=github)](https://github.com/vkrishnaaa/VK-Shopping-Kart)
 
----
+</td>
+
+<td width="50%">
 
 ### 🎮 VK Gaming Webpage
 
-A gaming-themed frontend website where I experimented with a darker visual style, layouts, images, buttons, hover effects and overall UI design.
+A gaming-inspired webpage built with **HTML & CSS**.
 
-This project helped me become more comfortable with CSS and taught me how different colours, spacing and visual elements can completely change the feel of a website.
+Focused more on UI, layouts, typography, colors and creating a stronger visual feel.
 
-🔗 [View Repository](https://github.com/vkrishnaaa/VK-Gaming-Webpage)
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-161b22?style=for-the-badge\&logo=github)](https://github.com/vkrishnaaa/VK-Gaming-Webpage)
 
----
+</td>
+</tr>
 
-### 💻 Personal Portfolio
+<tr>
+<td width="50%">
 
-My personal portfolio website where I started putting my projects, skills and information about myself together in one place.
+### 🌐 Personal Portfolio
 
-The goal was to create a simple and personal space that I can continue updating as I learn new technologies and build more projects.
+My personal portfolio where I experimented with layouts, UI, animations and presenting my work.
 
-🔗 [View Portfolio](https://github.com/vkrishnaaa)
+[![Portfolio](https://img.shields.io/badge/VIEW_PROJECT-161b22?style=for-the-badge\&logo=googlechrome)](#)
 
----
+</td>
+
+<td width="50%">
 
 ### ☕ Nevermore Cafe
 
-A dark, gothic and fantasy-inspired cafe website built entirely with HTML and CSS.
+A themed webpage built around a café concept, with more focus on the overall visual experience and styling.
 
-I wanted to move away from the usual bright cafe designs and experiment with a mysterious, after-dark atmosphere inspired by gothic and Wednesday-style aesthetics.
+[![Coming Soon](https://img.shields.io/badge/MORE_PROJECTS-COMING_SOON-161b22?style=for-the-badge)](#)
 
-The website includes a hero section, cafe story, menu, signature drinks, desserts, Wednesday Special, experience section, gallery, reviews, contact information and responsive layouts.
-
-This project pushed me further into **CSS layouts, responsive design, typography, hover effects, visual hierarchy and storytelling through design**.
-
-🔗 [View Repository](#)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 My Learning Journey
+<div align="center">
 
-I'm still at the beginning of my development journey, so I'm focusing on building a strong foundation instead of trying to learn everything at once.
+## 🩸 `LANGUAGES I USE`
 
-### ✅ Currently Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrishnaaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" />
 
-**HTML → CSS → JavaScript**
-
-### 🔜 Coming Next
-
-**JavaScript → React → Backend → Full Stack**
-
-My goal is to eventually become a **Full-Stack Developer** and build complete applications from the frontend all the way to the backend.
+</div>
 
 ---
 
-## 🎯 My Goal
+<div align="center">
 
-I want to become a developer who can take an idea from:
+## 📊 `GITHUB STATS`
 
-**💡 Idea → 🎨 Design → 💻 Code → 🚀 Working Project**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vkrishnaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=c9d1d9" />
 
-For now, I'm focusing on improving one project at a time and learning something new with every build.
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vkrishnaaa&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=8b5cf6&currStreakLabel=c084fc" />
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vkrishnaaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vkrishnaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## ⚡ A Little More About Me
+<div align="center">
 
-I started with simple HTML and CSS pages, and now I'm slowly trying to build projects that actually feel like real websites.
+## 📈 `CONTRIBUTION ACTIVITY`
 
-There's still a lot to learn — but that's exactly what makes it fun.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vkrishnaaa&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=c084fc&area=true&hide_border=true" />
 
-**Learning → Building → Improving → Repeating. 🔥**
+</div>
 
 ---
 
-### ⭐ Thanks for visiting!
+<div align="center">
 
-If you find something interesting in my repositories, feel free to check it out. More projects coming soon... 🚀
+## 🏆 `ACHIEVEMENTS`
+
+<img src="https://github-profile-trophy.vercel.app/?username=vkrishnaaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 `MY DEVELOPMENT JOURNEY`
+
+```text
+             HTML
+              │
+              ▼
+             CSS
+              │
+              ▼
+         ┌───────────┐
+         │ JavaScript│  ← CURRENT
+         └─────┬─────┘
+               │
+               ▼
+            Frontend
+               │
+               ▼
+            Backend
+               │
+               ▼
+          Full Stack ⚡
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌘 `CURRENT STATUS`
+
+|               |                                 |
+| ------------- | ------------------------------- |
+| 🎓 Education  | B.Tech CSE (AI & ML)            |
+| 🏫 University | GLA University                  |
+| 📍 Year       | 1st Year                        |
+| 💻 Focus      | Web Development                 |
+| 🌱 Learning   | JavaScript                      |
+| 🎯 Goal       | Full Stack Development          |
+| 🛠️ Building  | Web Projects                    |
+| 🧠 Status     | Learning → Building → Improving |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🕸️ `LET'S CONNECT`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-V.%20Krishnaaa-6f42c1?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vkrishnaaa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-vkrishnaaa-161b22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vkrishnaaa)
+
+<br><br>
+
+### `BUILD • LEARN • BREAK • FIX • REPEAT`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=100&section=footer" />
+
+</div>
