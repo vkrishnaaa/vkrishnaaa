@@ -1,4 +1,4 @@
-# Hey, I'm VK 👋
+# Hey, I'm Vasudev Krishnaaa (V. Krishnaaa or VK) 👋
 
 🎓 **BTech CSE (AI/ML) Student** | 🌱 **Aspiring Full-Stack Developer** | 💻 **Frontend Learner**
 
