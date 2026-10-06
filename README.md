@@ -1,5 +1,9 @@
 <div align="center">
+<p align="center">
+  <img src="./Banner.png" width="100%">
+</p>
 
+  
 # V. KRISHNAAA
 
 ### `Frontend Developer` · `Vibe Coder` · `B.Tech CSE (AI & ML)`
