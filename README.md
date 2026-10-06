@@ -1,211 +1,157 @@
 <div align="center">
 
-# 🦇 V. KRISHNAAA
+# V. KRISHNAAA
 
-### `B.Tech CSE (AI & ML)` • `1st Year` • `Aspiring Full Stack Developer`
+### `Frontend Developer` · `Vibe Coder` · `B.Tech CSE (AI & ML)`
 
-<img src="https://komarev.com/ghpvc/?username=vkrishnaaa&label=PROFILE+VIEWS&color=6f42c1&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Building+things+I+probably+didn't+need+to+build.;Frontend+%7C+UI+%7C+Creative+Web;Learning+JavaScript+%2B+Python;Turning+ideas+into+websites." />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vkrishnaaa)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/vkrishnaaa)
+<a href="https://github.com/vkrishnaaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://vkrishnaaa.github.io/VK-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+🎓 B.Tech CSE (AI & ML) student
+💻 Learning **Frontend Development** by building real projects
+⚡ Currently working with **HTML, CSS, JavaScript & Python**
+🎨 Interested in **UI, creative websites & visual design**
+🧠 Improving **problem solving & programming fundamentals**
+🌑 Dark mode enthusiast
+
+> **I build it first. Figure out how it works later.** 💀
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 🕯️ `A LITTLE ABOUT ME`
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+|         Project         | Description                          |       Stack       |
+| :---------------------: | :----------------------------------- | :---------------: |
+|  🕸️ **Nevermore Cafe** | Dark, gothic-inspired café website   |    `HTML` `CSS`   |
+|     🎮 **VK Gaming**    | Gaming-themed frontend experience    |    `HTML` `CSS`   |
+|   🌐 **VK Portfolio**   | Personal portfolio & web experiments | `HTML` `CSS` `JS` |
+| 🛒 **VK Shopping Kart** | E-commerce inspired UI project       |    `HTML` `CSS`   |
+
+</div>
+
+<p align="center">
+<a href="https://github.com/vkrishnaaa?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vkrishnaaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&ring_color=A970FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrishnaaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vkrishnaaa&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vkrishnaaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+## 🎯 Currently
 
 ```text
-🎓  B.Tech CSE (AI & ML) @ GLA University
-📍  1st Year
-💻  Aspiring Full Stack Developer
-🌱  Currently learning HTML, CSS & JavaScript
-🎨  Interested in Web Development & UI
-🛠️  Learning by building actual projects
-⚡  Currently somewhere between "learning" and "why isn't this working?"
-````
-
-> I started with HTML & CSS, started making small websites,
-> and somehow ended up enjoying the whole process of turning random
-> ideas into actual webpages.
->
-> Still at the beginning. Still figuring things out.
-> But definitely building.
-
----
-
-<div align="center">
-
-## 🦇 `THE ARSENAL`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-
-<br><br>
-
-`HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `VS Code`
-
-</div>
-
----
-
-<div align="center">
-
-## 🌑 `CURRENTLY LEARNING`
-
-<img src="https://skillicons.dev/icons?i=js&theme=dark" />
-
-### JavaScript
-
-`HTML`—————`CSS`—————`JavaScript`—————`Frontend`—————`Backend`—————`Full Stack`
-
-</div>
-
----
-
-<div align="center">
-
-## ⚔️ `PROJECTS`
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 VK Shopping Kart
-
-A shopping-themed webpage built with **HTML & CSS**.
-
-Experimented with layouts, product sections, styling and building a complete webpage from scratch.
-
-[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-161b22?style=for-the-badge\&logo=github)](https://github.com/vkrishnaaa/VK-Shopping-Kart)
-
-</td>
-
-<td width="50%">
-
-### 🎮 VK Gaming Webpage
-
-A gaming-inspired webpage built with **HTML & CSS**.
-
-Focused more on UI, layouts, typography, colors and creating a stronger visual feel.
-
-[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-161b22?style=for-the-badge\&logo=github)](https://github.com/vkrishnaaa/VK-Gaming-Webpage)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-
-My personal portfolio where I experimented with layouts, UI, animations and presenting my work.
-
-[![Portfolio](https://img.shields.io/badge/VIEW_PROJECT-161b22?style=for-the-badge\&logo=googlechrome)](#)
-
-</td>
-
-<td width="50%">
-
-### ☕ Nevermore Cafe
-
-A themed webpage built around a café concept, with more focus on the overall visual experience and styling.
-
-[![Coming Soon](https://img.shields.io/badge/MORE_PROJECTS-COMING_SOON-161b22?style=for-the-badge)](#)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🩸 `LANGUAGES I USE`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrishnaaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 `GITHUB STATS`
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vkrishnaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=c9d1d9" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vkrishnaaa&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=8b5cf6&currStreakLabel=c084fc" />
-
-</div>
-
----
-
-
----
-
-<div align="center">
-
-## 🔥 `MY DEVELOPMENT JOURNEY`
-
-```text
-             HTML
-              │
-              ▼
-             CSS
-              │
-              ▼
-         ┌───────────┐
-         │ JavaScript│  ← CURRENT
-         └─────┬─────┘
-               │
-               ▼
-            Frontend
-               │
-               ▼
-            Backend
-               │
-               ▼
-          Full Stack ⚡
+Frontend Development     █████████████████░░░  85%
+JavaScript               ████████████░░░░░░░░  60%
+Python                   █████████░░░░░░░░░░░  45%
+Problem Solving          ████████░░░░░░░░░░░░  40%
+Backend                  ███░░░░░░░░░░░░░░░░░  15%
 ```
 
-</div>
+**Next up:** JavaScript → stronger problem solving → backend → full stack.
 
 ---
 
-<div align="center">
+## 📌 2026 Goals
 
-## 🌘 `CURRENT STATUS`
-
-|               |                                 |
-| ------------- | ------------------------------- |
-| 🎓 Education  | B.Tech CSE (AI & ML)            |
-| 🏫 University | GLA University                  |
-| 📍 Year       | 1st Year                        |
-| 💻 Focus      | Web Development                 |
-| 🌱 Learning   | JavaScript                      |
-| 🎯 Goal       | Full Stack Development          |
-| 🛠️ Building  | Web Projects                    |
-| 🧠 Status     | Learning → Building → Improving |
-
-</div>
+* [x] Start building real projects
+* [x] Build a personal portfolio
+* [x] Explore frontend development
+* [ ] Get comfortable with JavaScript
+* [ ] Improve Python problem solving
+* [ ] Build interactive web projects
+* [ ] Learn backend development
+* [ ] Build a full-stack project
+* [ ] Keep the contribution graph alive 💀
 
 ---
 
+## 🌐 Connect
+
 <div align="center">
 
-## 🕸️ `LET'S CONNECT`
+<a href="https://github.com/vkrishnaaa">
+<img src="https://img.shields.io/badge/GitHub-vkrishnaaa-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://vkrishnaaa.github.io/VK-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-V.%20Krishnaaa-6f42c1?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vkrishnaaa)
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vkrishnaaa-161b22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vkrishnaaa)
+<br>
 
-<br><br>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vkrishnaaa&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+### `BUILD • BREAK • FIX • REPEAT`
+
 </div>
